@@ -6,10 +6,10 @@ Hi, I'm **Nimalan Subramanian**, a Data Engineering & Data Science enthusiast wi
 ## Projects 📂
 Here are some of my featured projects:
 
-### **1️⃣ Stock Market Data Pipeline**
+### **1️⃣ Apache Airflow MLOps Pipeline**
 🔗 [View Project](projects/stock-market-pipeline/)  
-**Tech Used:** Python, SQL, Polygon.io API, Power BI  
-**Summary:** Collected stock data using an API, stored it in a SQL database, performed trend analysis, and visualized insights in Power BI.
+**Tech Used:** Python (pandas, scikit-learn), Apache-Airflow (DAG)
+**Summary:** Automated and orchestrated data preprocessing, model training, evaluation, and deployment, scheduled and managed by Apache Airflow.
 
 ### **2️⃣ Customer Churn Prediction**
 🔗 [View Project](projects/customer-churn/)  
