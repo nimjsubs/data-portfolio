@@ -17,7 +17,7 @@ Here are some of my featured projects:
 **Summary:** Extracted text from a document, then summarized text. Used LLM to generate questions based on text and QA model to answer questions.
 
 ### **3️⃣ Web ETL Pipeline**
-🔗 [View Project](projects/Web%20ETL/)  
+🔗 [View Project](projects/Web%20ETL%20Project/)  
 **Tech Used:** Python (requests, bs4, collections), NLTK, Pandas, SSL, WebScraper  
 **Summary:** Extracted data from web source, transformed to structured format then loaded into database/data lake.
 
