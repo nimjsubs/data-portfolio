@@ -7,7 +7,7 @@ Hi, I'm **Nimalan Subramanian**, a Data Engineering & Data Science enthusiast wi
 Here are some of my featured projects:
 
 ### **1️⃣ Apache Airflow MLOps Pipeline**
-🔗 [View Project](projects/Airflow Ops/)  
+🔗 [View Project](projects/AirflowMLOps/)  
 **Tech Used:** Python (pandas, scikit-learn), Apache-Airflow (DAG)
 **Summary:** Automated and orchestrated data preprocessing, model training, evaluation, and deployment, scheduled and managed by Apache Airflow.
 
