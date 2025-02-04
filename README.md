@@ -7,19 +7,19 @@ Hi, I'm **Nimalan Subramanian**, a Data Engineering & Data Science enthusiast wi
 Here are some of my featured projects:
 
 ### **1️⃣ Apache Airflow MLOps Pipeline**
-🔗 [View Project](projects/Airflow MLOps/)  
+🔗 [View Project](projects/Airflow%20MLOps/)  
 **Tech Used:** Python (pandas, scikit-learn), Apache-Airflow (DAG)
 **Summary:** Automated and orchestrated data preprocessing, model training, evaluation, and deployment, scheduled and managed by Apache Airflow.
 
-### **2️⃣ Customer Churn Prediction**
+### **2️⃣ Document Analysis with LLMs**
 🔗 [View Project](projects/customer-churn/)  
-**Tech Used:** Python (Scikit-Learn), Pandas, Logistic Regression  
-**Summary:** Built a machine learning model to predict customer churn based on transaction history and engagement data.
+**Tech Used:** Python (pdfPlumber), NLTK 
+**Summary:** Extracted text from a document, then summarized text. Used LLM to generate questions based on text and QA model to answer questions.
 
-### **3️⃣ Sales Data Dashboard**
+### **3️⃣ Web ETL Pipeline**
 🔗 [View Project](projects/sales-dashboard/)  
-**Tech Used:** Power BI, SQL  
-**Summary:** Created an interactive dashboard to analyze sales trends, customer demographics, and revenue performance.
+**Tech Used:** Python (requests, bs4, collections), NLTK, Pandas, SSL, WebScraper  
+**Summary:** Extracted data from web source, transformed to structured format then loaded into database/data lake.
 
 ## 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/nimalan-subramanian)  
