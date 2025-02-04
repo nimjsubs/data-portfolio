@@ -12,12 +12,12 @@ Here are some of my featured projects:
 **Summary:** Automated and orchestrated data preprocessing, model training, evaluation, and deployment, scheduled and managed by Apache Airflow.
 
 ### **2️⃣ Document Analysis with LLMs**
-🔗 [View Project](projects/customer-churn/)  
+🔗 [View Project](projects/Document%20Analysis%20LLM/)  
 **Tech Used:** Python (pdfPlumber), NLTK 
 **Summary:** Extracted text from a document, then summarized text. Used LLM to generate questions based on text and QA model to answer questions.
 
 ### **3️⃣ Web ETL Pipeline**
-🔗 [View Project](projects/sales-dashboard/)  
+🔗 [View Project](projects/Web%20ETL/)  
 **Tech Used:** Python (requests, bs4, collections), NLTK, Pandas, SSL, WebScraper  
 **Summary:** Extracted data from web source, transformed to structured format then loaded into database/data lake.
 
